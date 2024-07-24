@@ -1,0 +1,2 @@
+# TypeBlaze
+Simple typing game 
