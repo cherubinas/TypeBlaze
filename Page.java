@@ -215,7 +215,7 @@ setContentPane(contentPane);
     public void playMusic() {
         try {
         
-            AudioInputStream audioInputStream = AudioSystem.getAudioInputStream(new File("lib/funky.wav"));
+            AudioInputStream audioInputStream = AudioSystem.getAudioInputStream(new File("funky.wav"));
     
     
             Clip clip = AudioSystem.getClip();
@@ -301,7 +301,7 @@ setContentPane(contentPane);
     
         public CustomImagePanel() {
             try {
-                String filePath = "lib/base64.txt"; 
+                String filePath = "base64.txt"; 
                 String hiddenBase64 = new String(Files.readAllBytes(Paths.get(filePath))).trim();
     
               
