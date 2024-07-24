@@ -1,27 +1,32 @@
 # TypeBlaze
 About the project ( TypeBlaze game ):
-2. The TypeBlaze project is a game focused on testing users’ capabilities to type in
+
+The TypeBlaze project is a game focused on testing users’ capabilities to type in
 simple English, difficult English, and code lines. The game is being developed using
 the Java programming language.
-3. The primary objective of this project is to provide a fun and engaging way for users to
+
+The primary objective of this project is to provide a fun and engaging way for users to
 improve their typing skills. By playing the game, users will be able to practice typing
 at a faster and more accurate pace, thereby enhancing their overall efficiency in
 tasks that require typing.
-4. To ensure that users are making progress, the game will track how quickly and
+
+To ensure that users are making progress, the game will track how quickly and
 accurately they type the text presented to them. It will also keep track of any typing
 mistakes made by the user during gameplay. When the user decides to finish playing
 or when the provided text segment ends a results table will be displayed, showing the
 user's name (typed in before starting the game) and score. After that, the user can
 choose whether to continue playing or exit the game.
-5. Overall, the TypeBlaze project is an innovative solution to the problem of slow and
+
+Overall, the TypeBlaze project is an innovative solution to the problem of slow and
 inaccurate typing. By providing a fun and engaging game that encourages users to
 improve their typing skills, the project has the potential to make a significant
 contribution to the field of language learning.
 
-6. - use case diagram
+use case diagram
    ![image](https://github.com/user-attachments/assets/c8ee07aa-9c2f-4335-8a46-76da3eb1c817)
 
-7. Tools and technologies:
+Tools and technologies:
+
 The project TypeBlaze will be made using the Java programming language, including the UI.
 Our IDE of choice will be Visual Studio Code. It will be used for everything from GUI to
 database. Visual Studio Code (VSC) is a free code editor made by Microsoft for Windows,
