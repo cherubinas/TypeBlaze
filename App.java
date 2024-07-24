@@ -6,7 +6,7 @@ import java.util.ArrayList;
 public class App {
     public static void main(String[] args) {
         Game game = new Game();
-        game.initialize("C:/Users/Dell/Desktop/projektas1/lib/duom.txt");
+        game.initialize("../projektas1/lib/duom.txt");
         game.start();
        
     }
